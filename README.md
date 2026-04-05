@@ -1,2 +1,7 @@
-# shell-snippets-20260405
-Simple shell snippets and tiny utilities.
+# Shell Snippets
+
+A minimal set of shell notes and tiny utility examples.
+
+## Focus
+- simple commands
+- readable snippets
